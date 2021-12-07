@@ -1,2 +1,3 @@
 # somilar
 Arima model
+#commit
